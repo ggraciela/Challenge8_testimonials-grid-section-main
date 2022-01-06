@@ -4,7 +4,7 @@
 
 Completed in: ~
 <br />
-Over the span of ? days (Jan 2022)
+Over the span of ? days (5th- Jan 2022)
 <br />
 <br />
 <br />

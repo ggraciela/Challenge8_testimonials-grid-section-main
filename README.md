@@ -1,6 +1,6 @@
 # About
 
-8th practice project [HTML / CSS] from FrontEnd Mentor
+8th FrontEnd Mentor reverse engineering challenge 
 
 * HTML
 * CSS
